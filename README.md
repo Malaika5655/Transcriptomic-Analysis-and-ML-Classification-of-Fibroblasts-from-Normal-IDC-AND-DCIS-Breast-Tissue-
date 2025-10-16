@@ -17,7 +17,7 @@
 
   * Performed using *PyDESeq2*
   * Identified *49 significant DEGs* across normal, DCIS, and IDC samples
-  * Visualization with *volcano plots*
+  * Visualization with *volcano plots, heatmaps, principal component analysis*
 
  *Functional Enrichment Analysis*
 
